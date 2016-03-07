@@ -1,0 +1,3 @@
+Learning rate :-
+	alpha(t) ( = alpha/t 
+		alph(t) = alpha/root(t)
